@@ -1,4 +1,6 @@
-# HyperCube_assesment
+# Data display
+
+It displat the data from the server, it can also be filtered.
 
 Credentials to interact with the project:
 
